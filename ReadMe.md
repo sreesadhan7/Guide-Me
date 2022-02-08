@@ -54,7 +54,7 @@ localhost:3000
 * **T P V Krishna Teja** 
 * **Dhanush G A**
 * **Prabhakaran A S**
-* **P Sree Sadhan**
+* **P S Sree Sadhan**
 
 ## License
 
